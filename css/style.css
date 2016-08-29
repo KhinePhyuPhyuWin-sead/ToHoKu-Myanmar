@@ -26,3 +26,10 @@ h3 {
   margin: 0 auto;
   display: block;
 }
+
+/*** CSS For sec01 ***/
+.sec01-p {
+  color: green;
+  font-weight: bold;
+  font-size: 20px;
+}
