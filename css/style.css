@@ -66,12 +66,14 @@ h3 {
   text-align: center;
   font-size: 30px;
 }
-.pp_sec {
+.pp_sec, 
+.pp_sec01 {
   width: 100%;
   height: 570px;
   margin: 0 auto;
 }
-.pp_sec p {
+.pp_sec p,
+.pp_sec01 p {
   font-style: italic;
   font-size: 14px;
 }
