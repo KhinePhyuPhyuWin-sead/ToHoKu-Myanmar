@@ -45,3 +45,19 @@ h3 {
   height: 570px;
   margin: 0 auto;
 }
+.pp_sec p {
+  font-style: italic;
+  font-size: 14px;
+}
+.list {
+  clear: both;
+  width: 800px;
+  margin: 0 auto;
+}
+.list ul li {
+  float: left;
+  width: 100px;
+  padding: 20px 10px;
+  background: yellow;
+  list-style: none;
+}
