@@ -1,5 +1,14 @@
 @charset "utf-8";
 
+.cFix:after {
+  display: block;
+  content: "";
+  clear: both;
+  height: 0;
+  font-size: 0;
+  visibility: hidden;
+}
+
 h1 {
   font-size: 34px;
 }
@@ -28,10 +37,19 @@ h3 {
 }
 
 /*** CSS For sec01 ***/
+.sec01 p {
+  color: blue;
+  font-size: 24px;
+}
 .sec01-p {
   color: green;
   font-weight: bold;
   font-size: 20px;
+}
+
+.sec01 ul li {
+  float: left;
+  list-style: none;
 }
 
 /*** pp ***/
