@@ -51,7 +51,10 @@ h3 {
   font-weight: bold;
   font-size: 20px;
 }
-
+.sec01 ul {
+  padding-bottom: 20px;
+  border: 5px solid #000;
+}
 .sec01 ul li {
   float: left;
   list-style: none;
